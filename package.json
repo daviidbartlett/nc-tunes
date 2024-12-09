@@ -2,15 +2,15 @@
   "name": "seeding",
   "version": "1.0.0",
   "description": "First run the script `setup-db`",
-  "main": "index.js",
+  "main": "listen.js",
   "scripts": {
     "setup-dbs": "psql -f ./db/setup-db.sql",
     "seed": "node ./db/seed-run.js",
-    "start": "node listen.js",
+    "seed-prod": "NODE_ENV=production npm run seed",
     "test-utils": "jest utils",
     "test": "jest server",
     "dev": "node listen.js",
-    "seed-prod": "NODE_ENV=production npm run seed"
+    "start": "node listen.js"
   },
   "keywords": [],
   "author": "",
