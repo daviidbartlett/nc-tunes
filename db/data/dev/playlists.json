@@ -1,0 +1,14 @@
+[
+  {
+    "playlist_name": "Davids running Jamz",
+    "is_public": true
+  },
+  {
+    "playlist_name": "Roses Gaming Anthems",
+    "is_public": false
+  },
+  {
+    "playlist_name": "Elis Coding Bangers",
+    "is_public": false
+  }
+]

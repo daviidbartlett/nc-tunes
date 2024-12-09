@@ -1,0 +1,6 @@
+[
+  { "artist_name": "Taylor Swift", "rating": 5 },
+  { "artist_name": "Dolly Parton", "rating": 3 },
+  { "artist_name": "Black Sabbath", "rating": 2 },
+  { "artist_name": "Lynyrd Skynyrd", "rating": 4 }
+]

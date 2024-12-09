@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Cruel Summer",
+    "release_year": 2019,
+    "artist_name": "Taylor Swift",
+    "genre": "pop"
+  },
+  {
+    "title": "Paranoid",
+    "release_year": 1970,
+    "artist_name": "Black Sabbath",
+    "genre": "rock"
+  },
+  {
+    "title": "Free Bird",
+    "release_year": 1973,
+    "artist_name": "Lynyrd Skynyrd",
+    "genre": "rock"
+  },
+  {
+    "title": "Jolene",
+    "release_year": 1973,
+    "artist_name": "Dolly Parton",
+    "genre": "country"
+  },
+  {
+    "title": "Free Bird",
+    "release_year": 2023,
+    "artist_name": "Dolly Parton",
+    "genre": "rock"
+  },
+  {
+    "title": "Wildest Dreams",
+    "release_year": 2014,
+    "artist_name": "Taylor Swift",
+    "genre": "pop"
+  },
+  {
+    "title": "Our Song",
+    "release_year": 2006,
+    "artist_name": "Taylor Swift",
+    "genre": "country"
+  },
+  {
+    "title": "9 to 5",
+    "release_year": 1980,
+    "artist_name": "Dolly Parton",
+    "genre": "country"
+  }
+]

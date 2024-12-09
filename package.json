@@ -1,0 +1,35 @@
+{
+  "name": "seeding",
+  "version": "1.0.0",
+  "description": "First run the script `setup-db`",
+  "main": "index.js",
+  "scripts": {
+    "setup-dbs": "psql -f ./db/setup-db.sql",
+    "seed": "node ./db/seed-run.js",
+    "test-utils": "jest utils",
+    "test": "jest server",
+    "dev": "node listen.js",
+    "seed-prod": "NODE_ENV=production npm run seed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "pg": "^8.13.1",
+    "pg-format": "^1.0.4"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-extended": "^4.0.2",
+    "jest-sorted": "^1.0.15",
+    "supertest": "^7.0.0"
+  },
+  "jest": {
+    "setupFilesAfterEnv": [
+      "jest-extended/all",
+      "jest-sorted"
+    ]
+  }
+}

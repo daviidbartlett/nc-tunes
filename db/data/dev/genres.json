@@ -1,0 +1,14 @@
+[
+  {
+    "genre_name": "pop",
+    "description": "The songs you love to hate."
+  },
+  {
+    "genre_name": "rock",
+    "description": "Ready for the guitar solo?"
+  },
+  {
+    "genre_name": "country",
+    "description": "The songs you hate to love."
+  }
+]

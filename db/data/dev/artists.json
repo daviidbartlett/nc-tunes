@@ -1,0 +1,14 @@
+[
+  { "artist_name": "Taylor Swift", "rating": 5 },
+  { "artist_name": "Dolly Parton", "rating": 3 },
+  { "artist_name": "Black Sabbath", "rating": 2 },
+  { "artist_name": "Lynyrd Skynyrd", "rating": 4 },
+  { "artist_name": "Talor Swift", "rating": 5 },
+  { "artist_name": "Doll Parton", "rating": 3 },
+  { "artist_name": "Back Sabbath", "rating": 2 },
+  { "artist_name": "Lynrd Skynyrd", "rating": 4 },
+  { "artist_name": "Tayor Swift", "rating": 5 },
+  { "artist_name": "Doly Parton", "rating": 3 },
+  { "artist_name": "lack Sabbath", "rating": 2 },
+  { "artist_name": "ynyrd Skynyrd", "rating": 4 }
+]
